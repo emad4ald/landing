@@ -7,6 +7,7 @@
 			'en' => 'Menu',
 			'ja' => 'メニュー',
 			'th' => 'เมนู',
+			'ar' => 'القائمة',
 		],
 		'header-menu-home' => [
 			'en' => 'Home',
@@ -22,6 +23,7 @@
 			'zh-hans' => '首頁',
 			'zh-hant' => '首頁',
 			'cs' => 'Domů',
+			'ar' => 'الرئيسية',
 		],
 		'header-menu-features' => [
 			'en' => 'Features',
@@ -33,6 +35,7 @@
 			'zh-hans' => '特点',
 			'zh-hant' => '特點',
 			'cs' => 'Funkce',
+			'ar' => 'المميزات',
 		],
 		'header-menu-about' => [
 			'en' => 'About',
@@ -44,12 +47,14 @@
 			'zh-hans' => '简介',
 			'zh-hant' => '簡介',
 			'cs' => 'O nás',
+			'ar' => 'حول',
 		],
 		'header-menu-wiki' => [
 			'en' => 'Wiki',
 			'ja' => 'ウィキ',
 			'ko' => '위키',
 			'th' => 'วิกิหลัก',
+			'ar' => 'ويكي',
 		],
 		'header-menu-blog' => [
 			'en' => 'Blog',
@@ -58,6 +63,7 @@
 			'th' => 'บล็อก',
 			'zh-hant' => '博客',
 			'zh-hant' => '網誌',
+			'ar' => 'المدونة',
 		],
 		'header-menu-status' => [
 			'en' => 'Status',
@@ -66,6 +72,7 @@
 			'th' => 'สถานะ',
 			'zh-hans' => '状态',
 			'zh-hant' => '狀態',
+			'ar' => 'الحالة',
 		],
 		'header-menu-donate' => [
 			'en' => 'Donate',
@@ -81,6 +88,7 @@
 			'zh-hans' => '捐款',
 			'zh-hant' => '捐款',
 			'cs' => 'Přispět',
+			'ar' => 'تبرع',
 		],
 		'welcome-text' => [
 			'en' => 'Welcome to Miraheze!',
@@ -96,6 +104,7 @@
 			'zh-hans' => '欢迎來到 Miraheze',
 			'zh-hant' => '歡迎來到 Miraheze',
 			'cs' => 'Vítejte na Miraheze',
+			'ar' => '’Miraheze مرحبا بك في',
 		],
 		'description-text' => [
 			'en' => 'Miraheze is a non-profit, with a mission to provide a free community-centric wiki farm.',
@@ -446,6 +455,7 @@
 			'zh-hans' => '免责声明',
 			'zh-hant' => '免責聲明',
 			'cs' => 'Vyloučení odpovědnosti',
+			'ar' => 'اخلاء مسئولية',
 		],
 		'footer-cookie' => [
 			'en' => 'Cookie Statement',
@@ -472,6 +482,7 @@
 			'zh-hans' => '联络我们',
 			'zh-hant' => '聯絡我們',
 			'cs' => 'Kontaktujte nás',
+			'ar' => 'اتصل بنا',
 		],
 		'footer-faq' => [
 			'en' => 'FAQ',
@@ -479,6 +490,7 @@
 			'th' => 'คำถามที่พบบ่อย',
 			'zh-hans' => '常见问题',
 			'zh-hant' => '常見問題',
+			'ar' => 'أسئلة شائعة',
 		],
 		'footer-translate' => [
 			'en' => 'Translate this page',
@@ -494,6 +506,7 @@
 			'zh-hans' => '翻译这个页面',
 			'zh-hant' => '翻譯這個頁面',
 			'cs' => 'Přeložte tuto stránku',
+			'ar' => 'ترجم هذه الصفحة',
 		],
 		
 		// Donate page
